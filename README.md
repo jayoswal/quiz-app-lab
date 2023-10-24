@@ -46,7 +46,7 @@ npm install
 Now, you can start a local web server by running:
 
 ```
-npm start
+npm start - changes to test new pipeline
 ```
 
 And then open http://localhost:3000 to view it in the browser.
